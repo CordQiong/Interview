@@ -298,3 +298,4 @@ laya.d3.core.RenderableSprite3D.enableBatching = true;
 
 
 
+测试测试
