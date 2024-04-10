@@ -295,3 +295,6 @@ laya.d3.core.RenderableSprite3D.enableBatching = true;
 
 需要注意的是，判断物体是否在视线内是一个相对的概念。
 ***
+
+
+
