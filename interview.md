@@ -62,6 +62,13 @@
 ***
 
 ### 什么是行为树?
+
+[行为树文档](http://www.aisharing.com/archives/90)
+
+[官方文档](https://www.behaviortree.dev/docs/learn-the-basics/bt_basics/)
+
+
+
 行为树（Behavior Tree）是一种用于描述和管理行为的树形结构，常用于编程人工智能（AI）和游戏开发中。它提供了一种直观、灵活且可扩展的方式来描述复杂的行为逻辑，并且易于理解和调试。
 
 行为树由节点组成，节点分为两种类型：行为节点和控制节点。
