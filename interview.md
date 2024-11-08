@@ -264,7 +264,14 @@ print("是否发生碰撞：", result)
 通过综合运用以上方法，可以有效地优化游戏场景中的 draw call，提高游戏的性能和流畅度。
 
 ***
+### 内存优化：
+
+[内存优化](https://www.layaair.com/3.x/doc/2D/performanceOptimization/readme.html)
+
+
+
 ### laya 的动态合批
+
 LayaAir 引擎提供了动态合批（Dynamic Batching）功能，可以将多个相似的游戏对象动态地合并为一个批次，从而减少 draw call 的数量，提高游戏性能。以下是使用 LayaAir 引擎实现动态合批的基本步骤：
 
 1. 启用动态合批：在 LayaAir 引擎中，默认情况下动态合批是关闭的，需要手动启用。可以通过设置 laya.d3.core.RenderableSprite3D 类的 enableBatching 属性来启用动态合批功能。例如：
